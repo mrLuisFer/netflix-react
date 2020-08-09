@@ -1,7 +1,8 @@
 * {
 	margin: 0;
+	font-family: 'Mulish', sans-serif;
 }
 
 .app {
-	background-color: #111111;
+	background-color: rgb(10, 10, 10);
 }
