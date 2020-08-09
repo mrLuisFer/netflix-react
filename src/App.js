@@ -6,6 +6,7 @@ import Nav from './Nav';
 import './app.css';
 
 function App() {
+	console.log('Some trailers are not original, it is because of the API names');
 	return (
 		<div className="app">
 			<Nav />
