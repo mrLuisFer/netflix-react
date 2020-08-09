@@ -1,5 +1,4 @@
 ## 📌This is a practice project, Where I am learning ReactJs and which I based on a youtube video
-===
 
 ## 🌟  https://mrluisfer.github.io/netflix-react/.
 
